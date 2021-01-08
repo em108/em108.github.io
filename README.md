@@ -1,1 +1,1 @@
-# Klinetics.com
+# Klinetics
